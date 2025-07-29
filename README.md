@@ -22,4 +22,9 @@ elif operation == "/":
         print("Error: Cannot divide by zero.")
 else:
     print("Invalid operation. Please enter +, -, *, or /.")
-    
+   
+sample run
+Enter the first number: 10
+Enter the second number: 5
+Enter an operation (+, -, *, /): +
+10.0 + 5.0 = 15.0
